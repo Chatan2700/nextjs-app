@@ -17,7 +17,7 @@ const page = () => {
           <Link href="/dashboard/users/user03">User 03</Link>
         </li>
         <li>
-          <Link href="/dashboard/users/user0">User 04</Link>
+          <Link href="/dashboard/users/user04">User 04</Link>
         </li>
       </ul>
     </>
